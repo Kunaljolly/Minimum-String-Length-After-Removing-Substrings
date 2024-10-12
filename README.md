@@ -10,7 +10,6 @@ Return the minimum possible length of the resulting string that you can obtain.
 Note that the string concatenates after removing the substring and could produce new "AB" or "CD" substrings.
 
 
-
 Example 1:
 
 Input: s = "ABFCACDB"
